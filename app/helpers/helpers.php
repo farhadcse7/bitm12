@@ -17,4 +17,5 @@ function view($view, $data = [], $print = true)
 
     }
 
+
 }
